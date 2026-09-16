@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" role="img" aria-label="ห้องพัก">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6efe4"/>
+      <stop offset="1" stop-color="#e9dfd0"/>
+    </linearGradient>
+    <linearGradient id="window" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cfe9f7"/>
+      <stop offset="1" stop-color="#9fcde4"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="120" fill="url(#wall)"/>
+  <rect y="82" width="160" height="38" fill="#c9b79c"/>
+  <rect y="82" width="160" height="3" fill="#b39f83"/>
+  <rect x="98" y="16" width="44" height="40" rx="3" fill="url(#window)" stroke="#fff" stroke-width="3"/>
+  <path d="M120 16v40M98 36h44" stroke="#fff" stroke-width="2"/>
+  <rect x="92" y="12" width="6" height="48" rx="2" fill="#dde3e8"/>
+  <rect x="142" y="12" width="6" height="48" rx="2" fill="#dde3e8"/>
+  <rect x="14" y="58" width="70" height="30" rx="4" fill="#b98f6c"/>
+  <rect x="18" y="50" width="62" height="14" rx="4" fill="#fdfbf6"/>
+  <rect x="20" y="52" width="26" height="10" rx="3" fill="#ffffff"/>
+  <rect x="48" y="52" width="30" height="10" rx="3" fill="#ffffff"/>
+  <rect x="10" y="36" width="10" height="52" rx="2" fill="#a67a55"/>
+  <rect x="84" y="36" width="8" height="52" rx="2" fill="#a67a55"/>
+  <rect x="24" y="66" width="52" height="14" rx="3" fill="#7fb8a4"/>
+  <rect x="104" y="64" width="34" height="24" rx="3" fill="#d8ccb9"/>
+  <rect x="106" y="66" width="30" height="8" rx="1.5" fill="#ecdfcc"/>
+  <rect x="106" y="76" width="30" height="8" rx="1.5" fill="#ecdfcc"/>
+  <rect x="112" y="54" width="10" height="10" rx="3" fill="#6bbfa4"/>
+  <rect x="115" y="58" width="4" height="8" fill="#a67a55"/>
+  <circle cx="34" cy="26" r="10" fill="#f2d19a"/>
+  <path d="M28 26h12M34 20v12" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+</svg>

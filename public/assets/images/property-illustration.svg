@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title description">
+  <title id="title">อาคารหอพัก</title>
+  <desc id="description">ภาพประกอบอาคารหอพักสมัยใหม่พร้อมต้นไม้</desc>
+  <rect width="720" height="420" rx="28" fill="#dff3ef"/>
+  <circle cx="110" cy="86" r="42" fill="#f9d97a"/>
+  <path d="M0 348C98 300 181 332 259 318c94-17 157-4 229 16 75 21 146 5 232-29v115H0Z" fill="#7ac7ad"/>
+  <path d="M282 95h320l58 56v213H282Z" fill="#f7f9f8"/>
+  <path d="M265 95h348l48 53H303Z" fill="#dce5e2"/>
+  <path d="M323 151h298v213H323Z" fill="#fff"/>
+  <g fill="#305d55">
+    <rect x="350" y="178" width="64" height="56" rx="3"/>
+    <rect x="449" y="178" width="64" height="56" rx="3"/>
+    <rect x="548" y="178" width="46" height="56" rx="3"/>
+    <rect x="350" y="274" width="64" height="56" rx="3"/>
+    <rect x="449" y="274" width="64" height="56" rx="3"/>
+  </g>
+  <g fill="#9ed0c2">
+    <rect x="356" y="184" width="24" height="44"/>
+    <rect x="386" y="184" width="22" height="44"/>
+    <rect x="455" y="184" width="24" height="44"/>
+    <rect x="485" y="184" width="22" height="44"/>
+    <rect x="554" y="184" width="34" height="44"/>
+    <rect x="356" y="280" width="24" height="44"/>
+    <rect x="386" y="280" width="22" height="44"/>
+    <rect x="455" y="280" width="24" height="44"/>
+    <rect x="485" y="280" width="22" height="44"/>
+  </g>
+  <g fill="none" stroke="#315d55" stroke-width="5">
+    <path d="M331 247h279"/>
+    <path d="M331 343h279"/>
+    <path d="M340 239v16M425 239v16M524 239v16M600 239v16"/>
+    <path d="M340 335v16M425 335v16M524 335v16M600 335v16"/>
+  </g>
+  <path d="M537 364v-85h57v85" fill="#e3b675"/>
+  <path d="M248 364c-6-70-34-113-75-143 20 47 18 95 15 143Z" fill="#178b6f"/>
+  <path d="M180 364c4-72-19-125-65-165 15 55 7 111-2 165Z" fill="#0d725d"/>
+  <circle cx="171" cy="213" r="57" fill="#42a98c"/>
+  <circle cx="118" cy="253" r="48" fill="#278f74"/>
+  <rect x="158" y="270" width="17" height="98" rx="8" fill="#725942"/>
+  <path d="M55 364h633" stroke="#315d55" stroke-width="7" stroke-linecap="round"/>
+</svg>

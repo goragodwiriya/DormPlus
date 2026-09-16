@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" role="img" aria-label="อาคารหอพัก" preserveAspectRatio="xMaxYMax slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e3f3ef"/>
+      <stop offset="1" stop-color="#cfe9e1"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b7dfec"/>
+      <stop offset="1" stop-color="#6fb2c9"/>
+    </linearGradient>
+    <linearGradient id="facade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e5eceb"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="260" fill="url(#sky)"/>
+  <circle cx="90" cy="60" r="34" fill="#fbe3a0" opacity="0.9"/>
+  <path d="M0 200c60-18 120-24 180-14s120 26 190 18 130-34 270-30v86H0z" fill="#8fd0b8"/>
+  <path d="M0 226c80-14 150-10 220 0s140 14 230 4 120-20 190-14v40H0z" fill="#5fb896"/>
+  <g>
+    <path d="M250 60h250l40 30v150H250z" fill="url(#facade)"/>
+    <path d="M232 60h286l38 28H270z" fill="#d6e1de"/>
+    <rect x="270" y="88" width="270" height="152" fill="#f8fbfa"/>
+    <g fill="url(#glass)">
+      <rect x="284" y="100" width="46" height="34" rx="2"/>
+      <rect x="344" y="100" width="46" height="34" rx="2"/>
+      <rect x="404" y="100" width="46" height="34" rx="2"/>
+      <rect x="464" y="100" width="46" height="34" rx="2"/>
+      <rect x="284" y="150" width="46" height="34" rx="2"/>
+      <rect x="344" y="150" width="46" height="34" rx="2"/>
+      <rect x="404" y="150" width="46" height="34" rx="2"/>
+      <rect x="464" y="150" width="46" height="34" rx="2"/>
+    </g>
+    <g fill="#ffffff" opacity="0.55">
+      <rect x="284" y="100" width="14" height="34"/>
+      <rect x="344" y="100" width="14" height="34"/>
+      <rect x="404" y="100" width="14" height="34"/>
+      <rect x="464" y="100" width="14" height="34"/>
+      <rect x="284" y="150" width="14" height="34"/>
+      <rect x="344" y="150" width="14" height="34"/>
+      <rect x="404" y="150" width="14" height="34"/>
+      <rect x="464" y="150" width="14" height="34"/>
+    </g>
+    <g fill="#12705c">
+      <rect x="278" y="134" width="58" height="5" rx="2"/>
+      <rect x="338" y="134" width="58" height="5" rx="2"/>
+      <rect x="398" y="134" width="58" height="5" rx="2"/>
+      <rect x="458" y="134" width="58" height="5" rx="2"/>
+      <rect x="278" y="184" width="58" height="5" rx="2"/>
+      <rect x="338" y="184" width="58" height="5" rx="2"/>
+      <rect x="398" y="184" width="58" height="5" rx="2"/>
+      <rect x="458" y="184" width="58" height="5" rx="2"/>
+    </g>
+    <rect x="378" y="200" width="54" height="40" rx="3" fill="#0b6f5c"/>
+    <rect x="384" y="206" width="42" height="34" rx="2" fill="#a9dcd0"/>
+    <rect x="404" y="206" width="2" height="34" fill="#0b6f5c"/>
+    <rect x="360" y="196" width="90" height="6" rx="2" fill="#0b6f5c"/>
+  </g>
+  <g>
+    <rect x="130" y="196" width="14" height="44" rx="3" fill="#8a6a4c"/>
+    <circle cx="137" cy="172" r="40" fill="#2f9c78"/>
+    <circle cx="112" cy="188" r="24" fill="#3aae86"/>
+    <circle cx="164" cy="184" r="26" fill="#3aae86"/>
+    <rect x="574" y="204" width="12" height="36" rx="3" fill="#8a6a4c"/>
+    <circle cx="580" cy="182" r="34" fill="#2f9c78"/>
+    <circle cx="556" cy="196" r="20" fill="#3aae86"/>
+    <circle cx="604" cy="196" r="22" fill="#3aae86"/>
+  </g>
+  <path d="M0 240h640v20H0z" fill="#4ea884"/>
+</svg>

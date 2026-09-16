@@ -1,0 +1,8 @@
+/database/database.sqlite
+/database/database.sqlite-shm
+/database/database.sqlite-wal
+/storage/logs/*.log
+/uploads/*
+!/uploads/.gitkeep
+.DS_Store
+.env
